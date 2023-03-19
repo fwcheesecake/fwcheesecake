@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fwcheesecake
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning typescript
 - 📫 Reach me via email: antoniore102001@gmail.com
